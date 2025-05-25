@@ -1,5 +1,5 @@
 # 💫 About Me:
-Im currently working on full stack web developer as mern stack and learning new technologies as three js and 3d animations as well,typescript,sql,python and other languages as well<br>
+I'm currently pursuing my B.Tech in Computer Engineering at G. Pullaiah College of Engineering and Technology (GPCET), Kurnool, Andhra Pradesh, and I'm expected to graduate in 2025. I'm passionate about technology, especially the Internet of Things (IoT), and I enjoy working on both front-end and back-end development. I have hands-on experience with Python and enjoy building innovative solutions that solve real-world problems.<br><br>Currently, I'm actively seeking a full-time opportunity as a Software Engineer to further apply and grow my technical skills.<br><br>My educational journey began at Sri Chaitanya College of Education and BVR English Medium High School, where I built a strong foundation for my technical career.<br><br>I’m always open to learning new things, collaborating on exciting projects, and connecting with like-minded professionals. Feel free to reach out!
 
 
 ## 🌐 Socials:
@@ -13,7 +13,7 @@ Im currently working on full stack web developer as mern stack and learning new 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Devendradev44&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Devendradev44&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=Devendradev44&theme=dark&no-frame=false&no-bg=true&margin-w=4)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
